@@ -1,6 +1,9 @@
-Version 1.10. Changelog:
+الإصدار 1.10. سجل التغيرات:
 
->Update the base to the latest version in Google Play 16.20.36
->Fixed an offline problem on some devices
->Adding a lot of new features
->Bugs Fixed
+> [قاعدة] تحديث قاعدة جديدة 16.20.36
+> [ثابت ] مشكلة مكافحة الفيروسات
+> [ثابت] قضية معلقة
+> [أضيفت] قفل الدردشة
+>[إزالة] شريط الإجراءات وإعداد شريط التنقل مرة أخرى
+> [وأضاف] ميزة ريمكس
+>إصلاح العديد من القضايا.
